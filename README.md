@@ -1,6 +1,6 @@
 ### Olá! eu sou Felipe Erick 👋
 
-- 🔭 Eu estou trabalhando com front-end😄
+- 🔭 Eu estou trabalhando com desenvolvimento web😄
 - 🌱 Eu estou estudando react!!
 - 🎒 Pronomes: Ele/dele💬 
 - ✔️ 1° semestre análise e desenvolvimento de sistemas😼
