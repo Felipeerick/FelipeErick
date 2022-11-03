@@ -3,7 +3,7 @@
 - 🔭 Eu estou trabalhando com desenvolvimento web😄
 - 🌱 Eu estou estudando php e Laravel!!
 - 🎒 Pronomes: Ele/dele💬 
-- ✔️ 2° semestre análise e desenvolvimento de sistemas😼
+- ✔️ 3° semestre análise e desenvolvimento de sistemas😼
 
 <div align="center" >
   <a href="https://github.com/Felipeerick">
