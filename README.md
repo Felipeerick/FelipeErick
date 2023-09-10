@@ -1,9 +1,9 @@
 ### Olá! eu sou Felipe Erick 👋
 
 - 🔭 Eu estou trabalhando com desenvolvimento web😄
-- 🌱 Eu estou estudando php e Laravel!!
+- 🌱 Buscando a influência no inglês!!
 - 🎒 Pronomes: Ele/dele💬 
-- ✔️ 3° semestre análise e desenvolvimento de sistemas😼
+- ✔️ 4° semestre análise e desenvolvimento de sistemas😼
 
 <div align="center" >
   <a href="https://github.com/Felipeerick">
