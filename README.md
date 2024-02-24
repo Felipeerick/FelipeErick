@@ -1,9 +1,9 @@
 ### Olá! eu sou Felipe Erick 👋
 
 - 🔭 Eu estou trabalhando com desenvolvimento web😄
-- 🌱 Buscando a influência no inglês!!
+- 🌱 Buscando fluência no inglês!!
 - 🎒 Pronomes: Ele/dele💬 
-- ✔️ 4° semestre análise e desenvolvimento de sistemas😼
+- ✔️ Analista de Sistemas 😼
 
 <div align="center" >
   <a href="https://github.com/Felipeerick">
